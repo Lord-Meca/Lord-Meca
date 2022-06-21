@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lord_Meca</h1>
 <h3 align="center">A passionate java developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lord-meca" alt="lord-meca" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/lordmeca_" target="blank"><img src="https://img.shields.io/twitter/follow/lordmeca_?logo=twitter&style=for-the-badge" alt="lordmeca_" /></a> </p>
-
 - 🔭 I’m currently working on [EverShell](https://discord.gg/evershell)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lordmeca_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lordmeca_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckxa_sy78fd6yg7bxlfsiia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckxa_sy78fd6yg7bxlfsiia" height="30" width="40" /></a>
-<a href="https://discord.gg/Lord_Meca#1273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lord_Meca#1273" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uckxa_sy78fd6yg7bxlfsiia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckxa_sy78fd6yg7bxlfsiia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
