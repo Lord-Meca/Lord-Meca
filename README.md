@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EverShell](https://discord.gg/evershell)
 
-- 💻 You can contact me by **Lord_Meca#1273**
+- 💻 You can contact me at **Lord_Meca#1273**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
