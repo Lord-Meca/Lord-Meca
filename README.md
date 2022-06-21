@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lord_Meca</h1>
-<h3 align="center">A passionate java developer from France</h3>
+<h3 align="center">A passionate developer from France</h3>
 
 - 🔭 I’m currently working on [EverShell](https://discord.gg/evershell)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lordmeca_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lordmeca_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uckxa_sy78fd6yg7bxlfsiia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckxa_sy78fd6yg7bxlfsiia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lord_meca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lord_meca" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
