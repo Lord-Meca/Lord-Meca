@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lord_Meca</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [EverShell] & [Acarya] (https://discord.gg/evershell)
+- 🔭 I’m currently working on [Acarya](https://discord.io/acarya)
 
-- 💻 You can contact me at **Lord_Meca#1273**
+- 💻 You can contact me at **Lord_Meca#0025**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
