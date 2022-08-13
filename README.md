@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ./.
 
-- 💻 You can contact me at **Lord_Meca#0025**
+- 💻 You can contact me at **Lord_Meca#9348**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
