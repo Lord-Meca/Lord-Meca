@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lordmeca_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lordmeca_" height="40" width="50" /></a> <a href="https://lord-meca.github.io/web/main.html" target="_blank"><img align="center" src="https://cdn.discordapp.com/attachments/688034501175148602/1012847848083165254/colis_livraison.png" alt="lordmeca_" height="50" width="50" /></a>
+<a href="https://twitter.com/lordmeca_" target="_BLANK"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lordmeca_" height="40" width="50" /></a> <a href="https://lord-meca.github.io/web/main.html" target="_BLANK"><img align="center" src="https://cdn.discordapp.com/attachments/688034501175148602/1012847848083165254/colis_livraison.png" alt="lordmeca_" height="50" width="50" /></a>
   
 
 </p>
