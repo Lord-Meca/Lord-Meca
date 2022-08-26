@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lord_Meca</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">I'm enthusiast french developer 💻</h3>
 
 - 🔭 I’m currently working on ./.
 
