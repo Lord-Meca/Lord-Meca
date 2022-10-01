@@ -3,9 +3,9 @@
 
 <h3 align="left">Contact me at:</h3>
 
-<img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" height="50" width="50"></img><h3>Lord_Meca#9348 👀<h3>
+<img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" height="50" width="50"></img><h3>Lord_Meca#9348 <h3>
   
-<a href="https://lord-meca.github.io/website/main.html" target="_BLANK"><img align="left" src="https://cdn.discordapp.com/attachments/688034501175148602/1012847848083165254/colis_livraison.png" alt="lordmeca_" height="50" width="50" /></a><h3>Command 🛒<h3>
+<a href="https://lord-meca.github.io/website/main.html" target="_BLANK"><img align="left" src="https://cdn.discordapp.com/attachments/688034501175148602/1012847848083165254/colis_livraison.png" alt="lordmeca_" height="50" width="50" /></a><h3>Command<h3>
   
 
 <br/>
