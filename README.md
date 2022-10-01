@@ -12,7 +12,7 @@
 
 <h3 align="left">Command at :</h3>
 <p align="left">
-<a href="https://lord-meca.github.io/website/main.html" target="_BLANK">
+<a href="https://lord-meca.github.io/wsite/main.html" target="_BLANK">
 
 <img align="left" src="https://cdn.discordapp.com/attachments/688034501175148602/1012847848083165254/colis_livraison.png" alt="lordmeca_" height="50" width="50"/></a>
 </p>
