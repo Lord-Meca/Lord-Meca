@@ -3,11 +3,12 @@
 
 - 🔭 startCoding() & getAwesome()
 
-- 💻 You can contact me at **Lord_Meca#9348**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Contact me at:</h3>
 <p align="left">
-<a href="https://twitter.com/lordmeca_" target="_BLANK"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lordmeca_" height="40" width="50" /></a> <a href="https://lord-meca.github.io/website/main.html" target="_BLANK"><img align="center" src="https://cdn.discordapp.com/attachments/688034501175148602/1012847848083165254/colis_livraison.png" alt="lordmeca_" height="50" width="50" /></a>
+- 💻 You can contact me at **Lord_Meca#9348**
+<a href="https://lord-meca.github.io/website/main.html" target="_BLANK"><img align="center" src="https://cdn.discordapp.com/attachments/688034501175148602/1012847848083165254/colis_livraison.png" alt="lordmeca_" height="50" width="50" /></a>
   
 
 </p>
