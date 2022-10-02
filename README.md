@@ -27,4 +27,5 @@
 <hr>
 <h3 align="left">Stats :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-meca&show_icons=true&locale=en&layout=compact" alt="lordmeca_" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-meca&theme=tokyonight" alt="lordmeca_" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lord-meca&show_icons=true&theme=tokyonight" alt="lordmeca_" /></p>
