@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://lord-meca.github.io/wsite/main.html" target="_BLANK">
 
-<img align="left" src="https://cdn.discordapp.com/attachments/1030950845782687845/1030971246818644008/cadis.png" alt="lordmeca_" height="50" width="50"/></a>
+<img align="left" src="https://cdn.discordapp.com/attachments/1030950845782687845/1030971532048080967/cadis.png" alt="lordmeca_" height="50" width="100"/></a>
 </p>
 <br/>
 <br/>
