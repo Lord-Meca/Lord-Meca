@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lord_Meca</h1>
-<h3 align="center">I'm enthusiast french developer since 2 years 💻</h3>
+<h3 align="center">I'm enthusiast french developer 🔵⚪🔴</h3>
 
 <hr>
 <h3 align="left">Contact me at:</h3>
