@@ -5,7 +5,7 @@
 <h3 align="left">Contact me at:</h3>
 
 
-<img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" height="50" width="50"/><h3>Lord_Meca#9348<h3>
+<img align="left" src="https://cdn.discordapp.com/attachments/709864195360817272/1025689134783799306/discord_logo.png" height="50" width="50"/><h3>lord_meca<h3>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
