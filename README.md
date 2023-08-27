@@ -18,7 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-meca&theme=tokyonight" alt="lordmeca_" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lord-meca&show_icons=true&theme=tokyonight" alt="lordmeca_" /></p>
-<br/>
-<hr>
+
 <img src="https://raw.githubusercontent.com/ItsAlexousd/ItsAlexousd/main/grid-snake.svg"/>
 
