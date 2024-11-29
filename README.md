@@ -16,3 +16,5 @@
 
 <img src="https://raw.githubusercontent.com/ItsAlexousd/ItsAlexousd/main/grid-snake.svg"/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Meca)](https://github.com/anuraghazra/github-readme-stats)
+
