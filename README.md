@@ -11,14 +11,9 @@
 
 <h3 align="left">Some statistics :</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-meca&theme=tokyonight" alt="lordmeca_" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lord-meca&show_icons=true&theme=tokyonight" alt="lordmeca_" /></p>
-
-<img src="https://raw.githubusercontent.com/ItsAlexousd/ItsAlexousd/main/grid-snake.svg"/>
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -27,4 +22,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+<img src="https://raw.githubusercontent.com/ItsAlexousd/ItsAlexousd/main/grid-snake.svg"/>
+
+
 
