@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/ItsAlexousd/ItsAlexousd/main/grid-snake.svg"/>
 
