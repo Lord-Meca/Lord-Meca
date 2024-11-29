@@ -11,7 +11,7 @@
 
 <h3 align="left">Some statistics :</h3>
 
-<picture>
+<picture align="flex">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: dark)"
@@ -21,9 +21,11 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://raw.githubusercontent.com/ItsAlexousd/ItsAlexousd/main/grid-snake.svg"/>
 
