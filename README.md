@@ -12,9 +12,14 @@
 <h3 align="left">Some statistics :</h3>
 
 <div style="display: flex; align-items: center;">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&theme=codeSTACKr" alt="Top Langs" />
+  </a>
+  
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=transparent"
+      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=codeSTACKr"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -24,9 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true" />
   </picture>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&theme=transparent" alt="Top Langs" />
-  </a>
+
 </div>
 
 
