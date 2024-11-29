@@ -11,20 +11,23 @@
 
 <h3 align="left">Some statistics :</h3>
 
-<picture align="flex">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-</picture>
-
+<div style="display: flex; align-items: center;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=transparent"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true" />
+  </picture>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&theme=transparent" alt="Top Langs" />
+  </a>
+</div>
 
 
 <img src="https://raw.githubusercontent.com/ItsAlexousd/ItsAlexousd/main/grid-snake.svg"/>
