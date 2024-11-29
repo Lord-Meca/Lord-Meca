@@ -14,12 +14,12 @@
 <div style="display: flex; align-items: center;">
   
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&layout=donut&theme=nightowl" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&layout=donut&theme=transparent" alt="Top Langs" />
   </a>
   
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=nightowl"
+      srcset="https://github-readme-stats.vercel.app/api?username=Lord-Meca&show_icons=true&theme=transparent"
       media="(prefers-color-scheme: dark)"
     />
     <source
