@@ -12,7 +12,7 @@
 <h3 align="left">Some statistics :</h3>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
+  <a style="margin-left: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Meca&layout=donut&theme=gotham" alt="Top Langs" />
   </a>
   
