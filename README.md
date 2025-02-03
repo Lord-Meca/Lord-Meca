@@ -1,4 +1,4 @@
-<h1 align="center">I'm Lord_Meca</h1>
+<h1 align="center">👋 i'm Lord_Meca</h1>
 <h3 align="center">French developer 🔵⚪🔴</h3>
 
 <hr>
