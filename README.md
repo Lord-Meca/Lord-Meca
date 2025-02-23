@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/122c6017-d984-413f-9f90-1d71e13d8f8b)<h1 align="center">👋 I'm Lord_Meca</h1>
+<h1 align="center">👋 I'm Lord_Meca</h1>
 <h3 align="center">French developer</h3>
 
 <hr>
