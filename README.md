@@ -3,32 +3,6 @@
 
 <hr>
 
-<p align="center">
-<pre style="display: inline-block; text-align: left; background-color: #222; color: #0f0; padding: 20px; border-radius: 10px; font-family: 'Courier New', Courier, monospace;">
-                  :::!~!!!!!:.                          - AAAA
-              .xUHWH!! !!?M88WHX:.
-            .X*#M@$!!  !X!M$$$$$$WWx:.
-           :!!!!!!?H! :!$!$$$$$$$$$$8X:
-          !!~  ~:~!! :~!$!#$$$$$$$$$$8X:
-         :!~::!H!<   ~.U$X!?R$$$$$$$$MM!
-         ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!
-           !:~~~ .:!M"T#$$$$WX??#MRRMMM!
-           ~?WuxiW*`   `"#$$$$8!!!!??!!!
-         :X- M$$$$       `"T#$T~!8$WUXU~
-        :%`  ~#$$$m:        ~!~ ?$$$$$$
-      :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
-.....   -~~:<` !    ~?T#$$@@W@*?$$    /`
-W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
-#"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`
-:::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~
-.~~   :X@!.-~   ?@WTWo("*$$$W$TH$! `
-Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
-$R@i.~~ !     :   ~$$$$$B$$en:``
-?MXT@Wx.~    :     ~"##*$$$$M~
-</pre>
-</p>
-<hr>
-
 <h3 align="left">Some statistics :</h3>
 
 <div style="display: flex; align-items: center;">
