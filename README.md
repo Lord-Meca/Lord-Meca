@@ -27,7 +27,7 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
 ?MXT@Wx.~    :     ~"##*$$$$M~
 </pre>
 </p>
----
+<hr>
 
 <h3 align="left">Some statistics :</h3>
 
